@@ -1,0 +1,18 @@
+{
+  "_note": "Low-poly kit, uploaded 2026-11-09 as Model assets on creator userId 89559579. All approved. Build records (size, origin, reference mesh) are in art/lowpoly/_build/. Do not re-upload an entry that already has an id. The older rounded props in assets/manifest.json are superseded by these but still exist on the account.",
+  "props": {
+    "DentalChair": "121870338780273", "DentalLamp": "87269963298716", "InstrumentTray": "83741017589252",
+    "ReceptionDesk": "97870073468818", "SinkCabinet": "84821880536519", "XRayMachine": "119933927144890",
+    "Sterilizer": "125582247845948", "WaterCooler": "75569280796429", "ToothSign": "101142388666745",
+    "WaitingChair": "82170924906224"
+  },
+  "kit": {
+    "Shell0": "78138214318387", "Shell1": "76547677518467", "Shell2": "72912672432625", "Shell3": "112972766214214",
+    "PlazaCore": "135174550970391", "FountainRing": "90702904967604", "Bench": "94535249419648",
+    "StreetLamp": "137384207115267", "TreeRound": "109710276547235", "TreePine": "109907820564839",
+    "Bush": "91309553332211", "FlowerBed": "106294156685729", "CafeSet": "119354564767281",
+    "PlotGround": "122908259379315", "Fence26": "71430031795058", "Hedge26": "95869932570186",
+    "GatePosts": "108954040104457", "Mailbox": "97462575034196", "RugRunner": "72573505737149",
+    "PlantLP": "108102136000191", "ShelfLP": "79241610833613"
+  }
+}

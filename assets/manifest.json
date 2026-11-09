@@ -1,0 +1,13 @@
+{
+  "_note": "Every entry is a permanent Model asset on the creator's Roblox account (userId 89559579). Source programs are in art/kiln/. Do not re-upload an entry that already has an assetId.",
+  "DentalChair": { "assetId": "88742575032106", "tris": 2044, "sizeStuds": [4.39, 5.95, 9.81], "kiln": "art/kiln/DentalChair.kiln.js" },
+  "DentalLamp": { "assetId": "120112163997326", "tris": 1376, "sizeStuds": [2.57, 6.25, 5.21], "kiln": "art/kiln/DentalLamp.kiln.js" },
+  "InstrumentTray": { "assetId": "123042720191804", "tris": 1328, "sizeStuds": [2.14, 3.75, 2.5], "kiln": "art/kiln/InstrumentTray.kiln.js" },
+  "ReceptionDesk": { "assetId": "120517493216204", "tris": 1788, "sizeStuds": [11.96, 5.89, 3.79], "kiln": "art/kiln/ReceptionDesk.kiln.js" },
+  "SinkCabinet": { "assetId": "98746842035557", "tris": 1248, "sizeStuds": [3.79, 4.14, 2.28], "kiln": "art/kiln/SinkCabinet.kiln.js" },
+  "XRayMachine": { "assetId": "83910659344944", "tris": 1112, "sizeStuds": [3.29, 6.61, 5.66], "kiln": "art/kiln/XRayMachine.kiln.js" },
+  "Sterilizer": { "assetId": "97814953872338", "tris": 1096, "sizeStuds": [2.64, 2.05, 2.35], "kiln": "art/kiln/Sterilizer.kiln.js" },
+  "WaterCooler": { "assetId": "102781815384067", "tris": 1008, "sizeStuds": [1.43, 5.27, 1.79], "kiln": "art/kiln/WaterCooler.kiln.js" },
+  "ToothSign": { "assetId": "114012938298148", "tris": 3848, "sizeStuds": [6.07, 7.75, 6.07], "kiln": "art/kiln/ToothSign.kiln.js" },
+  "WaitingChair": { "assetId": null, "tris": 1020, "sizeStuds": [2.14, 3.53, 1.98], "kiln": "art/kiln/WaitingChair.kiln.js", "status": "NOT UPLOADED: the upload was blocked by Claude Code's permission classifier. File is ready at ~/Roblox-Tools/work/upload/WaitingChair.glb. Waiting chairs are built from Parts until it is uploaded." }
+}

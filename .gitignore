@@ -1,0 +1,10 @@
+Packages/
+ServerPackages/
+DevPackages/
+*.rbxlx.lock
+sourcemap.json
+
+# reference recordings
+*.mov
+build/
+Packages/

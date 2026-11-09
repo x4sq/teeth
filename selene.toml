@@ -1,0 +1,7 @@
+std = "roblox"
+exclude = ["src/server/ProfileStore.luau"]
+
+[rules]
+unused_variable = "warn"
+deprecated = "deny"
+shadowing = "warn"
